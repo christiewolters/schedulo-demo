@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.00eddddb.css",
-    "main.js": "/public/static/js/main.6d1420cd.js",
-    "static/media/coffee-shop-pana.svg": "/public/static/media/coffee-shop-pana.00c6f540b75030cf2f95.svg",
-    "static/media/whole-year-pana.svg": "/public/static/media/whole-year-pana.e427ea6750645c40e2e9.svg",
-    "static/media/home-pana.svg": "/public/static/media/home-pana.b751a6b936f73c7bb19e.svg",
-    "static/media/calendar-pana.svg": "/public/static/media/calendar-pana.97fb801ecab959b7d3d7e13f8088df3a.svg",
-    "index.html": "/public/index.html",
-    "main.00eddddb.css.map": "/public/static/css/main.00eddddb.css.map",
-    "main.6d1420cd.js.map": "/public/static/js/main.6d1420cd.js.map"
+    "main.css": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/css/main.b840341e.css",
+    "main.js": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/js/main.3e5eab75.js",
+    "static/media/coffee-shop-pana.svg": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/media/coffee-shop-pana.00c6f540b75030cf2f95.svg",
+    "static/media/whole-year-pana.svg": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/media/whole-year-pana.e427ea6750645c40e2e9.svg",
+    "static/media/home-pana.svg": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/media/home-pana.b751a6b936f73c7bb19e.svg",
+    "static/media/calendar-pana.svg": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/media/calendar-pana.97fb801ecab959b7d3d7e13f8088df3a.svg",
+    "index.html": "https://christiewolters.github.io/schedulo-demo/ npm run build/index.html",
+    "main.b840341e.css.map": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/css/main.b840341e.css.map",
+    "main.3e5eab75.js.map": "https://christiewolters.github.io/schedulo-demo/ npm run build/static/js/main.3e5eab75.js.map"
   },
   "entrypoints": [
-    "static/css/main.00eddddb.css",
-    "static/js/main.6d1420cd.js"
+    "static/css/main.b840341e.css",
+    "static/js/main.3e5eab75.js"
   ]
 }
